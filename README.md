@@ -22,12 +22,12 @@ git clone https://github.com/LiiP11/Linguagem-C.git
 2. Compile o código-fonte usando um compilador C, por exemplo:
 
 ```
-gcc linguagem-c.c -o linguagem-c
+gcc <nome-do-arquivo.c> -o <nome-do-arquivo>
 ```
 
 3.Execute o programa gerado:
 ```
-./linguagem-c
+./<nome-do-arquivo>
 ```
 Certifique-se de que você tenha um ambiente de desenvolvimento C configurado em sua máquina antes de executar os exercícios.
 
