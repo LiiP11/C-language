@@ -1,53 +1,38 @@
-# Exercícios de Linguagem C
-Este repositório contém uma coleção de exercícios em Linguagem C, criado como parte do currículo da faculdade. O objetivo deste repositório é fornecer uma referência e recursos práticos para estudantes que estão aprendendo C ou precisam praticar suas habilidades na linguagem.
+# C Language Exercises
 
-## Descrição do Repositório :newspaper:
+This repository contains a collection of exercises in C Language, created as part of the college curriculum. The purpose of this repository is to provide a reference and practical resources for students who are learning C or need to practice their language skills.
 
-<<<<<<< HEAD
-- **Linguagem C**: Este repositório irá conter alguns exercícios da faculdade e também alguns exercícios básicos do livro *["C Programming Language"](https://www.amazon.com.br/Programming-Language-Brian-W-Kernighan/dp/0131103628/ref=asc_df_0131103628/?tag=googleshopp00-20&linkCode=df0&hvadid=379787788238&hvpos=&hvnetw=g&hvrand=5166066883200803336&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100703&hvtargid=pla-422923046090&psc=1)* de ***[Brian W. Kernighan](https://pt.wikipedia.org/wiki/Brian_Kernighan)*** (Autor)_, ***[Dennis Ritchie](https://pt.wikipedia.org/wiki/Dennis_Ritchie)*** (Autor)_.
-=======
-- **Linguagem C**: Este repositório irá conter alguns exercícios da faculdade e também alguns exercícios básicos do livro ***["C Programming Language"](https://www.amazon.com.br/Programming-Language-Brian-W-Kernighan/dp/0131103628/ref=asc_df_0131103628/?tag=googleshopp00-20&linkCode=df0&hvadid=379787788238&hvpos=&hvnetw=g&hvrand=5166066883200803336&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100703&hvtargid=pla-422923046090&psc=1)*** de ***[Brian W. Kernighan](https://pt.wikipedia.org/wiki/Brian_Kernighan) (Autor)***, ***[Dennis Ritchie](https://pt.wikipedia.org/wiki/Dennis_Ritchie) (Autor)***.
->>>>>>> f33c10f37b57356f3f18ab162a12b79d632a081f
+## Repository Description
+- **C Language**: This repository will contain some exercises from college and also some basic exercises from the book ***["C Programming Language"](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)*** by ***[Brian W. Kernighan](https://pt.wikipedia.org/wiki/Brian_Kernighan) (Author)***, ***[Dennis Ritchie](https://pt.wikipedia.org/wiki/Dennis_Ritchie) (Author)***.
 
-## Conteúdo :label:
-Abaixo estão alguns dos tópicos abordados:
+## Content
+Below are some of the topics covered:
 
-- **Estruturas de Controle**: Exercícios relacionados a estruturas condicionais **(if, else, switch)** e loops **(for, while, do-while)**.
+- **Control Structures**: Exercises related to conditional structures **(if, else, switch)** and loops **(for, while, do-while)**.
+- **Functions**: Exercises that explore the creation and calling of functions in C.
 
-- **Funções**: Exercícios que exploram a criação e chamada de funções em C.
+## Execution Instructions
+To perform the exercises, follow these steps:
 
-## Instruções de Execução
-Para executar os exercícios, siga estas etapas:
-
-1. Clone este repositório em sua máquina local usando o comando:
-```sh
-	git clone https://github.com/<liip11>/<linguagem-c>.git
+1. Clone this repository to your local machine using the command:
 ```
-2. Compile o código-fonte usando um compilador C, por exemplo:
-
-```sh
-	gcc linguagem-c.c -o linguagem-c
+git clone https://github.com/LiiP11/Linguagem-C.git
 ```
-
-3.Execute o programa gerado:
-```sh
-./linguagem-c
+2. Compile the source code using a C compiler, for example:
 ```
-Certifique-se de que você tenha um ambiente de desenvolvimento C configurado em sua máquina antes de executar os exercícios.
+gcc <filename.c> -o <filename>
+```
+3.Run the generated program:
+```
+./<file-name>
+```
+Make sure you have a C development environment set up on your machine before running the exercises.
 
-## Contribuição
-Contribuições são bem-vindas! Se você deseja adicionar mais exercícios, corrigir erros ou melhorar a documentação, sinta-se à vontade para abrir uma Pull Request.
+## Contribution
+Contributions are welcome! If you want to add more exercises, fix bugs or improve documentation, feel free to open a Pull Request.
 
-## Licença :balance_scale:
-Este projeto está sob a licença MIT. Veja o arquivo [!LICENSE](./LICENSE) para obter mais detalhes.
+## License
+This project is under the MIT license. See the [!LICENSE](./LICENSE) file for more details.
 
-## Contato :phone:
-<<<<<<< HEAD
-Se você tiver alguma dúvida ou precisar de ajuda com os exercícios, sinta-se à vontade para entrar em contato:
-
-Nome: Eliezer Pimenta
-
-Email: eliezer.a.pimenta@gmail.com
-=======
-Se você tiver alguma dúvida ou precisar de ajuda com os exercícios, sinta-se à vontade para entrar em contato.
->>>>>>> f33c10f37b57356f3f18ab162a12b79d632a081f
+## Contact
+If you have any questions or need help with the exercises, feel free to get in touch.
