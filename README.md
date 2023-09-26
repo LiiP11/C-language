@@ -2,12 +2,7 @@
 Este repositório contém uma coleção de exercícios em Linguagem C, criado como parte do currículo da faculdade. O objetivo deste repositório é fornecer uma referência e recursos práticos para estudantes que estão aprendendo C ou precisam praticar suas habilidades na linguagem.
 
 ## Descrição do Repositório :newspaper:
-
-<<<<<<< HEAD
-- **Linguagem C**: Este repositório irá conter alguns exercícios da faculdade e também alguns exercícios básicos do livro *["C Programming Language"](https://www.amazon.com.br/Programming-Language-Brian-W-Kernighan/dp/0131103628/ref=asc_df_0131103628/?tag=googleshopp00-20&linkCode=df0&hvadid=379787788238&hvpos=&hvnetw=g&hvrand=5166066883200803336&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100703&hvtargid=pla-422923046090&psc=1)* de ***[Brian W. Kernighan](https://pt.wikipedia.org/wiki/Brian_Kernighan)*** (Autor)_, ***[Dennis Ritchie](https://pt.wikipedia.org/wiki/Dennis_Ritchie)*** (Autor)_.
-=======
 - **Linguagem C**: Este repositório irá conter alguns exercícios da faculdade e também alguns exercícios básicos do livro ***["C Programming Language"](https://www.amazon.com.br/Programming-Language-Brian-W-Kernighan/dp/0131103628/ref=asc_df_0131103628/?tag=googleshopp00-20&linkCode=df0&hvadid=379787788238&hvpos=&hvnetw=g&hvrand=5166066883200803336&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100703&hvtargid=pla-422923046090&psc=1)*** de ***[Brian W. Kernighan](https://pt.wikipedia.org/wiki/Brian_Kernighan) (Autor)***, ***[Dennis Ritchie](https://pt.wikipedia.org/wiki/Dennis_Ritchie) (Autor)***.
->>>>>>> f33c10f37b57356f3f18ab162a12b79d632a081f
 
 ## Conteúdo :label:
 Abaixo estão alguns dos tópicos abordados:
@@ -20,18 +15,16 @@ Abaixo estão alguns dos tópicos abordados:
 Para executar os exercícios, siga estas etapas:
 
 1. Clone este repositório em sua máquina local usando o comando:
-```sh
-	git clone https://github.com/<liip11>/<linguagem-c>.git
+```
+git clone https://github.com/<LiiP11>/<Linguagem-C>.git
 ```
 2. Compile o código-fonte usando um compilador C, por exemplo:
-
-```sh
-	gcc linguagem-c.c -o linguagem-c
 ```
-
+gcc <nome-do-arquivo.c> -o <nome-do-arquivo>
+```
 3.Execute o programa gerado:
-```sh
-./linguagem-c
+```
+./<nome-do-arquivo>
 ```
 Certifique-se de que você tenha um ambiente de desenvolvimento C configurado em sua máquina antes de executar os exercícios.
 
@@ -42,12 +35,4 @@ Contribuições são bem-vindas! Se você deseja adicionar mais exercícios, cor
 Este projeto está sob a licença MIT. Veja o arquivo [!LICENSE](./LICENSE) para obter mais detalhes.
 
 ## Contato :phone:
-<<<<<<< HEAD
 Se você tiver alguma dúvida ou precisar de ajuda com os exercícios, sinta-se à vontade para entrar em contato:
-
-Nome: Eliezer Pimenta
-
-Email: eliezer.a.pimenta@gmail.com
-=======
-Se você tiver alguma dúvida ou precisar de ajuda com os exercícios, sinta-se à vontade para entrar em contato.
->>>>>>> f33c10f37b57356f3f18ab162a12b79d632a081f
