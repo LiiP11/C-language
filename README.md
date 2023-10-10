@@ -16,7 +16,7 @@ To perform the exercises, follow these steps:
 
 1. Clone this repository to your local machine using the command:
 ```
-git clone https://github.com/LiiP11/Linguagem-C.git
+git clone https://github.com/LiiP11/C-language.git
 ```
 2. Compile the source code using a C compiler, for example:
 ```
