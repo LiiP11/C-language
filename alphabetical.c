@@ -3,8 +3,7 @@
 #include <string.h>
 
 int main() {
-    int i, j;
-    int len;
+    int len, i, j;
 
     printf("Enter the number of names: ");
     scanf("%d", &len);
