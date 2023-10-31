@@ -1,4 +1,3 @@
-/* calculating the factorial of a number */
 #include <stdio.h>
 
 // Function to calculate the factorial of a number
