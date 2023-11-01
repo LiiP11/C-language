@@ -1,4 +1,4 @@
-/* checks whether a year is a leap year or not */
+/* Checks whether a year is a leap year or not */
 #include <stdio.h>
 
 int main() {
